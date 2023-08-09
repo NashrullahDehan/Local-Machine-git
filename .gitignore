@@ -1,5 +1,5 @@
-!sample.pdf
 *.pdf
+!sample.pdf
 
 .idea/
 out/
